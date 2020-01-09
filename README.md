@@ -18,7 +18,7 @@ Random Forest
 XGBoost
 Other algorithms
 
-# Data Sources
+# Data Source
 
 https://en.tutiempo.net/climate/01-2015/ws-421820.html
 
