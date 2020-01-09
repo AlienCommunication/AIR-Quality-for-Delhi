@@ -13,9 +13,12 @@ Air quality of previous day
 
 Industrial parameters such as power plant emissions
 
-##  Algorithm Used -
+# Algorithm Used -
+
 Random Forest
+
 XGBoost
+
 Other algorithms
 
 # Data Source
